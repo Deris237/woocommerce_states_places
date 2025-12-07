@@ -92,7 +92,7 @@ $places['CM'] = array(
 		'Campo'
 	),
 	'SW' => array(
-		'Buéa',
+		'Buea',
 		'Limbé',
 		'Kumba',
 		'Tiko',
