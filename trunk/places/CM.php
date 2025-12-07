@@ -44,8 +44,7 @@ $places['CM'] = array(
 		'Mokolo',
 		'Yagoua',
 		'Kaélé',
-		'Mora',
-		'Guider'
+		'Mora'
 	),
 	'LT' => array(
 		'Douala',
